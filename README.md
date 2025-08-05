@@ -2,6 +2,8 @@
 
 A responsive multi-page website created for a fictional running club. Developed as part of the Code Institute curriculum, this project demonstrates proficiency in front-end development and design best practices.
 
+You can check out the website [here](https://askeran17.github.io/love-running/)!
+
 ## 📌 Project Overview
 
 Love Running is designed to engage users who are passionate about running and promote community activities. The site features:
